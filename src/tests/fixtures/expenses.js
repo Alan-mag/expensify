@@ -1,4 +1,4 @@
-import moment from 'moment';
+import moment from 'moment'
 
 export default [{
   id: '1',
@@ -18,4 +18,4 @@ export default [{
   note: '',
   amount: 4500,
   createdAt: moment(0).add(4, 'days').valueOf()
-}]
+}];
